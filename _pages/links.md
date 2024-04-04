@@ -19,7 +19,6 @@ A collection of links to other resources that may be useful for the course
   - Great set of short video tutorials on doing a simple data analysis with jupyter notebooks, and how a git workflow works.
 
 ## Python
-- [Neurodata coding practices](https://github.com/neurodata/practices/blob/master/Coding-practices.md)
 - [Transforming code into beautiful, idiomatic Python](https://github.com/JeffPaine/beautiful_idiomatic_python)
   - Written for Python2, but the ideas translate well to python3
 - [Python anti-patterns](http://docs.quantifiedcode.com/python-anti-patterns/index.html)
