@@ -28,11 +28,3 @@ A collection of links to other resources that may be useful for the course
 - [Official python documentation](https://docs.python.org/3/tutorial/index.html)
 - [Coding practices for sklearn](https://scikit-learn.org/stable/developers/contributing.html#coding-guidelines)
 
-## Communication 
-- [Jovo's figure checklist](https://bitsandbrains.io/2018/09/08/figures.html)
-- [Jovo's tips on making slides](https://bitsandbrains.io/2018/09/04/slides.html)
-
-## Other
-- [Jovo's tips on choosing a project](https://bitsandbrains.io/2018/08/31/sig-and-feas.html)
-- [Jovo's blog](https://bitsandbrains.io/)
-- [neurodata website](neurodata.io)
