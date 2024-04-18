@@ -27,3 +27,7 @@ A collection of links to other resources that may be useful for the course
 - [Official python documentation](https://docs.python.org/3/tutorial/index.html)
 - [Coding practices for sklearn](https://scikit-learn.org/stable/developers/contributing.html#coding-guidelines)
 
+## How to use rockfish 
+- [Introduction](https://www.arch.jhu.edu/guide/)
+- [Access](https://coldfront.rockfish.jhu.edu)
+- [FAQ](https://www.arch.jhu.edu/support/faq/)
